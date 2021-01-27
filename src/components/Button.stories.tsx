@@ -1,7 +1,7 @@
 // Button.stories.tsx
 
 import React from "react";
-import { Args, Story } from "@storybook/react/types-6-0";
+import { Story } from "@storybook/react/types-6-0";
 import Button from "./Button";
 
 // Required default export w/ title
